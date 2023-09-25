@@ -1,3 +1,3 @@
 print('Hello Python and GIT')
 print("This is another line")
-a = 3
+a = 3.2
